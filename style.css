@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.result {
+    display: flex;
+    padding: 20px;
+    padding-bottom: 15px;
+    gap: 15px;
+    font-size: 1.5em;
+}
+
+.playing {
+    padding: 20px;
+    padding-bottom: 15px;
+}
+
+input {
+    margin-left: 15px;
+}
+
+.buttons {
+    padding: 20px;
+    padding-top: 15px;
+}
+
+.result1 {
+    width: 50px;
+    height: 50px;
+    background: blue;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#result2 {
+    width: 50px;
+    height: 50px;
+    background: red;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.playing {
+    display: flex;
+    gap: 5px;
+}
